@@ -6,28 +6,28 @@ layout: page
 title: Portfolio
 ---
 
-Attempt to link to the [About]({{ site.url }}/about) page
+Attempt to link to the [About]({{ site.baseurl }}/about) page
 
 ## Botanicals & Nature
-[![]({{ site.baseurl }}/assets/images/cover/botanical+nature.cover.jpg)](/botanicals+nature/)
+[![]({{ site.baseurl }}/assets/images/cover/botanical+nature.cover.jpg)]({{ site.baseurl }}/botanicals+nature/)
 
 ## Nan's Garden
-[![]({{ site.baseurl }}/assets/images/cover/nansgarden.cover.jpg)](/nansgarden/)
+[![]({{ site.baseurl }}/assets/images/cover/nansgarden.cover.jpg)]({{ site.baseurl }}/nansgarden/)
 
 ## Food & Drink
-[![]({{ site.baseurl }}/assets/images/cover/food+drink.cover.jpg)](/food+drink/)
+[![]({{ site.baseurl }}/assets/images/cover/food+drink.cover.jpg)]({{ site.baseurl }}/food+drink/)
 
 ## Yoga
-[![]({{ site.baseurl }}/assets/images/cover/yoga.cover.png)](/yoga/)
+[![]({{ site.baseurl }}/assets/images/cover/yoga.cover.png)]({{ site.baseurl }}/yoga/)
 
 ## Portraits
-[![]({{ site.baseurl }}/assets/images/cover/portraits.cover.jpg)](/portraits/)
+[![]({{ site.baseurl }}/assets/images/cover/portraits.cover.jpg)]({{ site.baseurl }}/portraits/)
 
 ## Life Drawing
-[![]({{ site.baseurl }}/assets/images/cover/lifedrawing.cover.png)](/lifedrawing/)
+[![]({{ site.baseurl }}/assets/images/cover/lifedrawing.cover.png)]({{ site.baseurl }}/lifedrawing/)
 
 ## Drag
-[![]({{ site.baseurl }}/assets/images/cover/drag.cover.png)](/drag/)
+[![]({{ site.baseurl }}/assets/images/cover/drag.cover.png)]({{ site.baseurl }}/drag/)
 
 ## Logos
-[![]({{ site.baseurl }}/assets/images/cover/logos.cover.jpg)](/logos/)
+[![]({{ site.baseurl }}/assets/images/cover/logos.cover.jpg)]({{ site.baseurl }}/logos/)
