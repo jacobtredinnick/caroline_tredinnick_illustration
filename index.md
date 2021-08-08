@@ -6,6 +6,8 @@ layout: page
 title: Portfolio
 ---
 
+Attempt to link to the [About]({{ site.url }}/about) page
+
 ## Botanicals & Nature
 [![]({{ site.baseurl }}/assets/images/cover/botanical+nature.cover.jpg)](/botanicals+nature/)
 
