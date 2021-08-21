@@ -4,7 +4,6 @@
 
 layout: single
 title: Portfolio
-permalink: /portfolio/
 ---
 
 ## Botanicals & Nature
