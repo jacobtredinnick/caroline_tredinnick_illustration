@@ -1,0 +1,14 @@
+Local testing:
+bundle exec jekyll serve --baseurl ""
+Check http://127.0.0.1:4000/
+
+TODO:
+* Use data instead of listing all images in the front matter?
+* Alt text & titles
+* Make all preview images the same size?
+* About page
+* Use a local copy of the theme
+* Nan's Garden story book
+* Yoga cards
+* Standardize image format (png or jpg?)
+* Check page load times
