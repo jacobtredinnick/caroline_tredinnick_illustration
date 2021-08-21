@@ -4,9 +4,8 @@
 
 layout: single
 title: Portfolio
+permalink: /portfolio/
 ---
-
-Attempt to link to the [About]({{ site.baseurl }}/about) page
 
 ## Botanicals & Nature
 [![]({{ site.baseurl }}/assets/images/cover/botanical+nature.cover.jpg)]({{ site.baseurl }}/botanicals+nature/)
